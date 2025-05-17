@@ -1,0 +1,19 @@
+{
+  "effect.flux_armor_mod.flux_armor_effect": "Powered",
+  "item.flux_armor_mod.unpowered_flux_boots": "Unpowered Flux Boots",
+  "item.flux_armor_mod.powered_flux_armor_chestplate": "Powered Flux Chestplate",
+  "item.flux_armor_mod.powered_flux_armor_helmet": "Powered Flux Helmet",
+  "item.flux_armor_mod.powered_flux_armor_leggings": "Powered Flux Under Armor",
+  "item.flux_armor_mod.unpowered_flux_chestplate": "Unpowered Flux Chestplate",
+  "effect.flux_armor_mod.flux_entrance_stage": "Flux Entrance Stage",
+  "gui.flux_armor_mod.flux_overlay.label_power_remaining": "Power Remaining:",
+  "item.flux_armor_mod.unpowered_flux_under_armor": "Unpowered Flux Under Armor",
+  "item.flux_armor_mod.ready_flux_core": "Flux Core",
+  "item.flux_armor_mod.powered_flux_armor_boots": "Powered Flux Boots",
+  "item_group.flux_armor_mod.flux_armor": "Flux Armor",
+  "item.flux_armor_mod.flux_core": "Flux Core",
+  "gui.flux_armor_mod.flux_overlay.label_blade_status": "Blade Status:",
+  "item.flux_armor_mod.flux_blade": "Flux Blade",
+  "item.flux_armor_mod.unpowered_flux_helmet": "Unpowered Flux Helmet",
+  "item.flux_armor_mod.flux_charge": "Flux Charge"
+}

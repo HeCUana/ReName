@@ -1,0 +1,292 @@
+#nutrient
+[nutrient]
+
+	#nutrition
+	[nutrient.nutrition]
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		waterNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.05D
+		# Default: 0.05
+		# Range: 0.0 ~ 100.0
+		proteinNutritionValue = 0.05
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.02D
+		# Default: 0.02
+		# Range: 0.0 ~ 100.0
+		lipidNutritionValue = 0.02
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.01D
+		# Default: 0.01
+		# Range: 0.0 ~ 100.0
+		carbohydrateNutritionValue = 0.01
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		vitaminNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.01D
+		# Default: 0.01
+		# Range: 0.0 ~ 100.0
+		mineralNutritionValue = 0.01
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.03D
+		# Default: 0.03
+		# Range: 0.0 ~ 100.0
+		dietaryFiberNutritionValue = 0.03
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		coldNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		warmNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		ecologyNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		dreadNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		nothingnessNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		sourNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		sweetNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		bitterNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		spicyNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		saltyNutritionValue = 0.0
+		#This value corresponds to the nutrition provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		numbingNutritionValue = 0.0
+
+	#saturation
+	[nutrient.saturation]
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.03D
+		# Default: 0.03
+		# Range: 0.0 ~ 100.0
+		waterSaturationValue = 0.03
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		proteinSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.02D
+		# Default: 0.02
+		# Range: 0.0 ~ 100.0
+		lipidSaturationValue = 0.02
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.04D
+		# Default: 0.04
+		# Range: 0.0 ~ 100.0
+		carbohydrateSaturationValue = 0.04
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.01D
+		# Default: 0.01
+		# Range: 0.0 ~ 100.0
+		vitaminSaturationValue = 0.01
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		mineralSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		dietaryFiberSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		coldSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		warmSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		ecologySaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		dreadSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		nothingnessSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		sourSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		sweetSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		bitterSaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		spicySaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		saltySaturationValue = 0.0
+		#This value corresponds to the saturation provided by every 1% of this nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.00D
+		# Default: 0.0
+		# Range: 0.0 ~ 100.0
+		numbingSaturationValue = 0.0
+
+	#buff
+	[nutrient.buff]
+		#This boolean value corresponds to whether the normal buff effects in custom food are enabled.
+		#(true, false)
+		#default: true
+		enabledNormalBuff = true
+		#This value determines the duration of the normal buff for every 1% of the nutrient value.
+		#(0.0D, 100.0D)
+		#default: 1D
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		normalBuffDuration = 1.0
+		#This value corresponds to the normal buff probability for each 1% of the nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.003D
+		# Default: 0.003
+		# Range: 0.0 ~ 100.0
+		normalBuffProbability = 0.003
+		#This boolean value corresponds to whether the powerful buff effects in custom food are enabled.
+		#(true, false)
+		#default: true
+		enabledPowerfulBuff = true
+		#This value determines the duration of the powerful buff for every 1% of the nutrient value.
+		#(0.0D, 100.0D)
+		#default: 1D
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		powerfulBuffDuration = 1.0
+		#This value corresponds to the powerful buff probability for each 1% of the nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.002D
+		# Default: 0.002
+		# Range: 0.0 ~ 100.0
+		powerfulBuffProbability = 0.002
+		#This boolean value corresponds to whether the combination buff effects in custom food are enabled.
+		#(true, false)
+		#default: true
+		enabledCombinationBuff = true
+		#This value determines the duration of the combination buff for every 1% of the nutrient value.
+		#(0.0D, 100.0D)
+		#default: 1D
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		combinationBuffDuration = 1.0
+		#This value corresponds to the combination buff probability for each 1% of the nutrient value.
+		#(0.0D, 100.0D)
+		#default: 0.001D
+		# Default: 0.001
+		# Range: 0.0 ~ 100.0
+		combinationBuffProbability = 0.001
+		#This value corresponds to how much nutrient value can increase one level of BUFF.
+		#(0.0D, 100000.0D)
+		#default: 1000D
+		# Default: 1000.0
+		# Range: 0.0 ~ 100000.0
+		buffAmplifier = 1000.0
+
+#pot
+[pot]
+	#This boolean value corresponds to whether custom cooking is enabled.
+	#(true, false)
+	#default: true
+	enabledCustomCooking = true
+	#This boolean value corresponds to whether recipe cooking is enabled.
+	#(true, false)
+	#default: true
+	enabledRecipeCooking = true

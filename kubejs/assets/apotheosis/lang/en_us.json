@@ -1,0 +1,17 @@
+{
+    "comment_id": "/冒险模块",
+
+    "item.apotheosis.iron_upgrade_smithing_template": "锻造模板",
+    "upgrade.apotheosis.iron": "铁制升级 ",
+    "item.apotheosis.iron_upgrade_smithing_template.applies_to": "石头和锁链装备",
+    "item.apotheosis.iron_upgrade_smithing_template.ingredients": "4个铁锭",
+    "item.apotheosis.iron_upgrade_smithing_template.base_slot_description": "放入锁链盔甲或石头装备",
+    "item.apotheosis.iron_upgrade_smithing_template.additions_slot_description": "放入四个铁锭",
+
+    "item.apotheosis.gold_upgrade_smithing_template": "锻造模板",
+    "upgrade.apotheosis.gold": "金制升级 ",
+    "item.apotheosis.gold_upgrade_smithing_template.applies_to": "铁制装备",
+    "item.apotheosis.gold_upgrade_smithing_template.ingredients": "4个金锭",
+    "item.apotheosis.gold_upgrade_smithing_template.base_slot_description": "放入铁制盔甲、武器或工具",
+    "item.apotheosis.gold_upgrade_smithing_template.additions_slot_description": "放入四个金锭"
+}

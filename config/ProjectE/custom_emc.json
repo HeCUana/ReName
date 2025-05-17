@@ -1,0 +1,217 @@
+{
+  "comment": "Use the in-game commands to edit this file",
+  "entries": [
+    {
+      "tag": "c:ores/arlemite",
+      "emc": 24
+    },
+    {
+      "tag": "c:ores/realmite",
+      "emc": 24
+    },
+    {
+      "tag": "c:ores/tin",
+      "emc": 48
+    },
+    {
+      "tag": "c:ores/osmium",
+      "emc": 192
+    },
+    {
+      "tag": "c:ores/uranium",
+      "emc": 1024
+    },
+    {
+      "tag": "c:ores/fluorite",
+      "emc": 96
+    },
+    {
+      "tag": "c:ores/lead",
+      "emc": 128
+    },
+    {
+      "id": "rubinated_nether:nether_ruby_ore",
+      "emc": 4096
+    },
+    {
+      "id": "minecraft:andesite",
+      "emc": 4
+    },
+    {
+      "id": "create_mf:sulfur_ore",
+      "emc": 16
+    },
+    {
+      "tag": "c:ores/nickel",
+      "emc": 128
+    },
+    {
+      "tag": "c:ores/silver",
+      "emc": 64
+    },
+    {
+      "tag": "c:ores/titanium",
+      "emc": 12288
+    },
+    {
+      "tag": "c:ores/tungsten",
+      "emc": 32768
+    },
+    {
+      "tag": "c:ores/platinum",
+      "emc": 32768
+    },
+    {
+      "tag": "c:ores/earth_core_shard",
+      "emc": 32768
+    },
+    {
+      "tag": "c:ores/void_matter",
+      "emc": 16384
+    },
+    {
+      "tag": "c:ores/copper",
+      "emc": 32
+    },
+    {
+      "tag": "c:ores/gold",
+      "emc": 512
+    },
+    {
+      "tag": "c:ores/redstone",
+      "emc": 2048
+    },
+    {
+      "tag": "c:ores/lapis",
+      "emc": 2048
+    },
+    {
+      "tag": "c:ores/emerald",
+      "emc": 16384
+    },
+    {
+      "tag": "c:ores/diamond",
+      "emc": 8192
+    },
+    {
+      "tag": "c:ores/quartz",
+      "emc": 4096
+    },
+    {
+      "tag": "c:ores/coal",
+      "emc": 8
+    },
+    {
+      "tag": "c:ores/iron",
+      "emc": 32
+    },
+    {
+      "tag": "c:ores/vanadium",
+      "emc": 512
+    },
+    {
+      "tag": "c:ores/zinc",
+      "emc": 128
+    },
+    {
+      "tag": "c:ores/salt",
+      "emc": 16
+    },
+    {
+      "tag": "c:ores/potassiumchloride",
+      "emc": 512
+    },
+    {
+      "tag": "c:ores/thorium",
+      "emc": 8192
+    },
+    {
+      "tag": "c:ores/lithium",
+      "emc": 2048
+    },
+    {
+      "tag": "c:ores/chromium",
+      "emc": 1024
+    },
+    {
+      "tag": "c:ores/aluminum",
+      "emc": 512
+    },
+    {
+      "tag": "c:ores/molybdenum",
+      "emc": 1024
+    },
+    {
+      "tag": "c:ores/monazite",
+      "emc": 256
+    },
+    {
+      "tag": "c:ores/saltpeter",
+      "emc": 12
+    },
+    {
+      "tag": "c:ores/atalphaite",
+      "emc": 16384
+    },
+    {
+      "tag": "c:ores/swamp_silver",
+      "emc": 96
+    },
+    {
+      "tag": "c:ores/rupee",
+      "emc": 48
+    },
+    {
+      "tag": "c:ores/malarite",
+      "emc": 32
+    },
+    {
+      "tag": "c:ores/bloodgem",
+      "emc": 4096
+    },
+    {
+      "tag": "c:ores/torridite",
+      "emc": 256
+    },
+    {
+      "tag": "c:ores/anthracite",
+      "emc": 32
+    },
+    {
+      "tag": "c:ores/oxdrite",
+      "emc": 24
+    },
+    {
+      "tag": "c:ores/eden",
+      "emc": 16384
+    },
+    {
+      "tag": "c:ores/sulfur",
+      "emc": 16
+    },
+    {
+      "id": "divinerpg:wildwood_ore",
+      "emc": 2048
+    },
+    {
+      "id": "divinerpg:apalachia_ore",
+      "emc": 2048
+    },
+    {
+      "id": "divinerpg:skythern_ore",
+      "emc": 2048
+    },
+    {
+      "id": "divinerpg:mortum_ore",
+      "emc": 2048
+    },
+    {
+      "id": "anvilcraft:void_stone",
+      "emc": 16384
+    },
+    {
+      "id": "anvilcraft:earth_core_shard_ore",
+      "emc": 32768
+    }
+  ]
+}
